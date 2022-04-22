@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Booking.com</string>
+
+    <string-array name="hotel">
+        <item>Amaris</item>
+        <item>Anakta Bay</item>
+        <item>Belanova</item>
+        <item>Clarkson</item>
+        <item>Doxtron</item>
+        <item>Goudevard</item>
+        <item>Granium</item>
+        <item>Rumbert</item>
+        <item>Swiss-Belish</item>
+        <item>Watson</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Lorem ipsum</item>
+        <item>Lorem ipsum</item>
+        <item>Lorem ipsum</item>
+        <item>Lorem ipsum</item>
+        <item>Lorem ipsum</item>
+        <item>Lorem ipsum</item>
+        <item>Lorem ipsum</item>
+        <item>Lorem ipsum</item>
+        <item>Lorem ipsum</item>
+        <item>Lorem ipsum</item>
+    </string-array>
+</resources>
